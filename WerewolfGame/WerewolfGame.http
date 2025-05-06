@@ -1,0 +1,6 @@
+@WerewolfGame_HostAddress = http://localhost:5038
+
+GET {{WerewolfGame_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
