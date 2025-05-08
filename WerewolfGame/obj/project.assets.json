@@ -2450,19 +2450,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tuan\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HK2\\.Net\\Ma sói\\WerewolfGame\\WerewolfGame.csproj",
+      "projectUniqueName": "D:\\Users\\FPT APTECH\\SEMESTER 3\\MaSoi\\WerewolfGame\\WerewolfGame.csproj",
       "projectName": "WerewolfGame",
-      "projectPath": "D:\\HK2\\.Net\\Ma sói\\WerewolfGame\\WerewolfGame.csproj",
-      "packagesPath": "C:\\Users\\Tuan\\.nuget\\packages\\",
-      "outputPath": "D:\\HK2\\.Net\\Ma sói\\WerewolfGame\\obj\\",
+      "projectPath": "D:\\Users\\FPT APTECH\\SEMESTER 3\\MaSoi\\WerewolfGame\\WerewolfGame.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\FPT APTECH\\SEMESTER 3\\MaSoi\\WerewolfGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tuan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2528,7 +2528,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,13 +1,29 @@
+using WerewolfGame.Services; // Thêm using để dùng GameService
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+// Đăng ký dịch vụ GameService và controller
+builder.Services.AddControllers();                    // Cho phép sử dụng [ApiController]
+builder.Services.AddSingleton<GameService>();         // Đăng ký GameService dùng DI
+
+// Thêm CORS cho phép tất cả
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
+// Swagger/OpenAPI
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Cấu hình pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -16,6 +32,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseCors("AllowAll");
+
+
+// Map controller endpoints
+app.MapControllers();  // Quan trọng để định tuyến các controller như GameController
+
+// Demo route mặc định
 var summaries = new[]
 {
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
@@ -23,7 +46,7 @@ var summaries = new[]
 
 app.MapGet("/weatherforecast", () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
+    var forecast = Enumerable.Range(1, 5).Select(index =>
         new WeatherForecast
         (
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
@@ -38,6 +61,7 @@ app.MapGet("/weatherforecast", () =>
 
 app.Run();
 
+// WeatherForecast record vẫn giữ nguyên
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);

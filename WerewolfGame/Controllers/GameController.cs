@@ -52,10 +52,10 @@ namespace WerewolfGame.Controllers
                 return NotFound("Game not found.");
             }
 
-            if (game.Players.Count < 5)
-            {
-                return BadRequest("Not enough players to start the game.");
-            }
+            // if (game.Players.Count < 5)
+            // {
+            //     return BadRequest("Not enough players to start the game.");
+            // }
 
             _gameService.StartGame(gameId);
             return Ok("Game started.");
