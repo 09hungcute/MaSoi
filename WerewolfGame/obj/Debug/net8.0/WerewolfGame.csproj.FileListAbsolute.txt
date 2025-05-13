@@ -1,0 +1,95 @@
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.csproj.AssemblyReference.cache
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.AssemblyInfoInputs.cache
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.AssemblyInfo.cs
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.csproj.CoreCompileInputs.cache
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.MvcApplicationPartsAssemblyInfo.cs
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.MvcApplicationPartsAssemblyInfo.cache
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\appsettings.Development.json
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\appsettings.json
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\WerewolfGame.exe
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\WerewolfGame.deps.json
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\WerewolfGame.runtimeconfig.json
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\WerewolfGame.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\WerewolfGame.pdb
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\DnsClient.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\SharpCompress.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Snappier.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\bin\Debug\net8.0\ZstdSharp.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\staticwebassets.build.json
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\staticwebassets.development.json
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.WerewolfGame.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.build.WerewolfGame.props
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WerewolfGame.props
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WerewolfGame.props
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\scopedcss\bundle\WerewolfGame.styles.css
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\Werewolf.CEC94010.Up2Date
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\refint\WerewolfGame.dll
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.pdb
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\WerewolfGame.genruntimeconfig.cache
+D:\HK2\.Net\Ma sói\WerewolfGame\obj\Debug\net8.0\ref\WerewolfGame.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\appsettings.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\WerewolfGame.exe
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\WerewolfGame.deps.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\WerewolfGame.runtimeconfig.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\WerewolfGame.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\WerewolfGame.pdb
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\DnsClient.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\SharpCompress.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Snappier.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\bin\Debug\net8.0\ZstdSharp.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.csproj.AssemblyReference.cache
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.AssemblyInfoInputs.cache
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.AssemblyInfo.cs
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.csproj.CoreCompileInputs.cache
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.sourcelink.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.WerewolfGame.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.build.WerewolfGame.props
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WerewolfGame.props
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WerewolfGame.props
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\scopedcss\bundle\WerewolfGame.styles.css
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\Werewolf.CEC94010.Up2Date
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\refint\WerewolfGame.dll
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.pdb
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\WerewolfGame.genruntimeconfig.cache
+D:\Users\FPT APTECH\SEMESTER 3\MaSoi\WerewolfGame\obj\Debug\net8.0\ref\WerewolfGame.dll

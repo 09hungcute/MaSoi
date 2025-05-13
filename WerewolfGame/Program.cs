@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 using WerewolfGame.Services; // Thêm using để dùng GameService
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,24 +18,12 @@ builder.Services.AddCors(options =>
 });
 
 // Swagger/OpenAPI
-=======
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container
-builder.Services.AddControllers(); // Đảm bảo đã thêm Controllers
-
-// Nếu bạn dùng Swagger cho API
->>>>>>> 425881246f1c57b1a76b797c3b74ea22b367db38
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-<<<<<<< HEAD
 // Cấu hình pipeline
-=======
-// Configure the HTTP request pipeline.
->>>>>>> 425881246f1c57b1a76b797c3b74ea22b367db38
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -45,7 +32,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-<<<<<<< HEAD
 app.UseCors("AllowAll");
 
 
@@ -80,9 +66,3 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
-=======
-// Các API controller sẽ được nhận diện từ đây
-app.MapControllers(); // Đây là bước quan trọng để ánh xạ các controller API
-
-app.Run();
->>>>>>> 425881246f1c57b1a76b797c3b74ea22b367db38
